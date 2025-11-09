@@ -1,4 +1,4 @@
-# Stochastic Gradient Descent with MPI for predicting taxi fares
+# Stochastic Gradient Descent with MPI for Predicting Taxi Fares in New York City
 > Project for DSA5208 Scalable Distributed Computing for Data Science AY25/26 Sem 1
 
 ## Contributors
